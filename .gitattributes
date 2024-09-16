@@ -1,0 +1,6 @@
+complete_grab.csv filter=lfs diff=lfs merge=lfs -text
+final_df.csv filter=lfs diff=lfs merge=lfs -text
+restaurant_data_clean.csv filter=lfs diff=lfs merge=lfs -text
+item_item_matrix.npy filter=lfs diff=lfs merge=lfs -text
+restaurant_numpy.npy filter=lfs diff=lfs merge=lfs -text
+user.npy filter=lfs diff=lfs merge=lfs -text
